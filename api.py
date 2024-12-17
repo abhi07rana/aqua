@@ -2,6 +2,7 @@ import os
 import logging
 import traceback
 from flask import Flask, request, jsonify, send_file
+from flask_cors import CORS
 from werkzeug.utils import secure_filename
 import pandas as pd
 
