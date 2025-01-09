@@ -1,6 +1,6 @@
-# AquaForecast All™
+# AquaForecast AI™
 
-AquaForecast All™ is an advanced predictive analytics tool designed for the aquaculture industry. It uses machine learning to forecast key metrics like yield, economic potential, and sustainability scores for aquatic systems. The project is built in Python, leveraging Flask for API deployment and powerful libraries for data processing and model training.
+AquaForecast AI™ is an advanced predictive analytics tool designed for the aquaculture industry. It uses machine learning to forecast key metrics like yield, economic potential, and sustainability scores for aquatic systems. The project is built in Python, leveraging Flask for API deployment and powerful libraries for data processing and model training.
 
 ## Table of Contents
 - [Features](#features)
